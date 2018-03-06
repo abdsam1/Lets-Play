@@ -223,3 +223,6 @@ If this causes problems for you, you may want to try changing your terminal's co
 ### To do
 
 * Downgrade or upgrade 'react-native-router-flux' to version 3.x or 4.x
+
+
+From Confiz
